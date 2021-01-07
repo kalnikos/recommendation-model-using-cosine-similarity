@@ -1,1 +1,1 @@
-# recommendation-model-using-cosine-similarity
+# Recommendation model using cosine similarity
