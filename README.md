@@ -16,5 +16,9 @@ The second step is about creating a function which will take two inputs, the job
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104217126-a738ed80-5443-11eb-9530-4be255177cb6.png)
 
+Using the Beautiful Soup module on this page and changing keywords in the URL you can inspect different results by using a simple function as the above. Notice that I am also using the time module in order to give some time to the browser to load the page properly. The page that we will scrape is this one:
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104219389-b8372e00-5446-11eb-831f-da7db7576f1c.png)
+
 
 
