@@ -11,4 +11,10 @@ Firstly, exporting the libraries that we are going to use:
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104214468-24626380-5440-11eb-85f8-5eca10908df7.png)
 
+I am notgoing to dive in depth to describe the library’s functionality. I did it in apreview repository, you can find it in my profile with the name “Develop operationstrategy based on LinkedIn Data”. 
+The second step is to create a function which will take two inputs, the job title and the area that we are looking for open positions. Writing now the documentation I noticed that we can scrape the Indeed page using only the Beautiful Soup library because it's a static page, on the other hand you can open the page using the Selenium module and find the searching boxes, write your query and click search by inspecting the right page elements. Definitely, you can try to do with your approach.  
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104217012-7f498a00-5443-11eb-9383-e033d24c6332.png)
+
+
 
