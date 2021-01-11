@@ -26,7 +26,7 @@ As we can see is a page with boxes that includes information about the position,
 
 Till now everything looks that working fine, so let’s see the parsing function and analyse some parts:
 
-![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104221992-5973b380-544a-11eb-99cc-7b1f7234e249.png)
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104222452-fc2c3200-544a-11eb-9378-65aec5180207.png)
 
 
 
