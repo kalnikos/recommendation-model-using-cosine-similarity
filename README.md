@@ -20,13 +20,13 @@ Using the Beautiful Soup module on this page and changing keywords in the URL yo
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104219389-b8372e00-5446-11eb-831f-da7db7576f1c.png)
 
-As we can see is a page with boxes that includes information about the position, So we need those information plus the full job description for using it to compare it with certain CV’s in the Machine learning process. The page has loaded and we could parse the HTML content and start building a scrape function with the elements that we need.
+As we can see is a page with boxes that includes information about the position, So we need those information plus the full job description for using it to compare it with certain CV’s in the Machine learning process. The page has loaded and we could parse the HTML content and start building a scrape function with the elements that we need. It’s worth checking at this stage if everything works, in this page we can check this by printing the length of the list that contains the different job ads.
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104220832-bff7d200-5448-11eb-9c62-db5f89839b52.png)
 
-It’s worth checking at this stage if everything works, in this page we can check this by printing the length of the list that contains the different job ads.
+Till now everything looks that working fine, so let’s see the parsing function and analyse some parts:
 
-![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104221394-7cea2e80-5449-11eb-9323-96e3db7c35ad.png)
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104221992-5973b380-544a-11eb-99cc-7b1f7234e249.png)
 
 
 
