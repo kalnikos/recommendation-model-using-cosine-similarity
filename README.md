@@ -29,7 +29,11 @@ Till now everything looks that working fine, so let’s see the parsing function
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104222452-fc2c3200-544a-11eb-9378-65aec5180207.png)
 
-So, in the feature extraction process always think that finding a big element will make the process smooth. For instance, in this example I found the class which contains all the position’s ads; my next step was to isolate the first card and take the above features: job title, job URL etc. Using this approach I could implement the function to every card on each searching page.   
+So, in the feature extraction process always think that finding a big element will make the process smooth. For instance, in this example I found the class which contains all the position’s ads; my next step was to isolate the first card and take the above features: job title, job URL etc. Using this approach I could implement the function to every card on each searching page.  
+After creating the function we can use it for all the available pages that we want to extract data and we may also determine the number of the outcomes. The other tricky part of this process is getting the next searching page I suppose, and definitely there are many methods that you can try. The method that I used is to find the next button at the bottom of the page and extract the element which contains the HREF of the next page. To get in to the next page you just have to combine the HREF with the indeed main URL like the code bellow:
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104459491-77a9f280-55b5-11eb-96fa-067c0e69f2f6.png)
+
 
 
 
