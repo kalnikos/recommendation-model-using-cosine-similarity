@@ -52,5 +52,17 @@ Let’s compare the texts by counting the common words
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104487882-50afe880-55d6-11eb-9ef2-7bdc479a0446.png)
 
+Text 1 – Text 2: 3 common words
+Text 1 – Text 3: 4 common words
+Text 2 – Text 3: 3 common words
+
+So according to the results the text 1 is more similar to the text 3 which in fact is not true.
+
+
+We have the same issue using the Euclidean Distance the length is a factor that adversely affects the outcome according to the equation that calculate the distance:
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104490092-17c54300-55d9-11eb-930e-68cd2f5974cb.png)
+
+
+
 
 
