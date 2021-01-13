@@ -60,7 +60,13 @@ So according to the results the text 1 is more similar to the text 3 which in fa
 
 
 We have the same issue using the Euclidean Distance the length is a factor that adversely affects the outcome according to the equation that calculate the distance:
+
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104490092-17c54300-55d9-11eb-930e-68cd2f5974cb.png)
+
+
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104495396-662a1000-55e0-11eb-9e4f-eb959b7522cb.png)
+
 
 
 
