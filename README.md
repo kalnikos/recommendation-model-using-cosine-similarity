@@ -37,6 +37,7 @@ After creating the function we can use it for all the available pages that we wa
 ## Recommend open positions based on a particular CV 
 
 Assume that we are running an operation where the documents are so many and you don’t have much time to read everything or you are just trying to sort your documents and categorize them in different folders. Definitely time consuming tasks, but not anymore, using tools like Algebra and our computer we can find a technique to do it quickly. I will use the Cosine Similarity method for my recommendation model but first let me explain why and How it works.
+
 Cosine Similarity is a method for determining how similar two documents are. Certainly there are many more methods that you can use for finding the text similarity but Cosine is irrespective of the document size. I mention size because one way to find the similarity is by counting the words of a sentence compared to another and if they are having many common words we assume that they are similar. Not so quickly, what’s happening if the texts that we are comparing are having different sizes, the longer the text more words to count that may lead to inaccurate results. 
 
 
