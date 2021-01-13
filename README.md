@@ -63,10 +63,14 @@ We have the same issue using the Euclidean Distance the length is a factor that 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104490092-17c54300-55d9-11eb-930e-68cd2f5974cb.png)
 
-
+Text 1: I love football
+Text 2: I love playing and watching football
+Text 3: I hate football
+The sentence 1 with the sentence 3 have the opposite meaning but after using the Euclidean equation the distance between sentence 1 and 3 will be shorter compared to the sentence 2, so again the length of the sentence affected the result.
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104495396-662a1000-55e0-11eb-9e4f-eb959b7522cb.png)
 
+Big distance number means dissimilarity but how could we define that number how could we define a threshold of similarity considering that the distance could be a very big number.   
 
 
 
