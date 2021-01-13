@@ -50,7 +50,7 @@ Text 3: I offer an ice cream to the lady that I love
 
 Let’s compare the texts by counting the common words
 
-![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104487188-72f53680-55d5-11eb-9656-b4cdc8e18311.png)
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104487657-0b8bb680-55d6-11eb-8fdd-b4f303ba90d0.png)
 
 
 
