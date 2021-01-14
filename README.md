@@ -70,9 +70,15 @@ The sentence 1 with the sentence 3 have the opposite meaning but after using the
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104495396-662a1000-55e0-11eb-9e4f-eb959b7522cb.png)
 
-Big distance number means dissimilarity but how could we define that number how could we define a threshold of similarity considering that the distance could be a very big number.   
+Big distance number means dissimilarity, but how could we define that number? How could we define a threshold of similarity considering that the distance could be a very big number.
 
+We can overcome these issues by using the Cosine Similarity method. Cosine Similarity measures the cosine of the angle between two vectors in the space. In my case I am using words that appear in documents. Plotting the words in a multi-dimensional space where every dimension represents a word the Cosine Similarity represents the angle of the documents and not the magnitude aka (How many times the words appears on a document). If you want to find the magnitude you can use the Euclidean distance.
+The Cosine Similarity isn't affected by length of the text and asymmetrical texts may have a smaller angle between them, smaller the angle higher the similarity.
 
+The equation for computing the Cosine Similarity is this:
 
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104580371-dd55b780-5665-11eb-8cbf-511894044334.png)
+
+Unfortunately, it’s not possible to plot an example when we are having more than three dimensions aka words. Despite that, I will use Python in order to represent how it words.
 
 
