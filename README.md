@@ -112,6 +112,14 @@ The data set is ready for implementing the Cosine Similarity method.
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104589309-522eee80-5672-11eb-8e08-2699b7617d26.png)
 
+The nextstep is to find the index of the CV that we insert to the data set and returnthe most similar job descriptions. Sort the job descriptions in descendingorder and determining how many you want to save.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104590050-6fb08800-5673-11eb-8eec-b47b21b45782.png)
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104590174-9cfd3600-5673-11eb-9609-70510bccfd45.png)
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104590288-c6b65d00-5673-11eb-9ff7-50319dab04a1.png)
+
 
 
 
