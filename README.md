@@ -99,6 +99,19 @@ The goal isto create a model that will send available open positions to the pers
 
 It is also usefulto download some NLP packages that can optimize the text manipulation process, hereis a link where you can find more detail about it: https://morioh.com/p/04a148fa2131
 
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104588261-c9638300-5670-11eb-8754-3033afe5465d.png)
+
+We can apply the packages to our text column with some other essential manipulations by creating a function:
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104588800-95d52880-5671-11eb-88ab-46bd07d8931c.png)
+
+The data set is ready for implementing the Cosine Similarity method.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104589151-1dbb3280-5672-11eb-980b-b6acbf9cb02f.png)
+
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104589309-522eee80-5672-11eb-8e08-2699b7617d26.png)
+
 
 
 
