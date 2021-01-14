@@ -97,7 +97,7 @@ The goal isto create a model that will send available open positions to the pers
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104586084-a8e5f980-566d-11eb-8c96-ecf26575edb0.png)
 
-
+It is also usefulto download some NLP packages that can optimize the text manipulation process, hereis a link where you can find more detail about it: https://morioh.com/p/04a148fa2131
 
 
 
