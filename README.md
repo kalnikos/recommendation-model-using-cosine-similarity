@@ -81,4 +81,24 @@ The equation for computing the Cosine Similarity is this:
 
 Unfortunately, it’s not possible to plot an example when we are having more than three dimensions aka words. Despite that, I will use Python in order to represent how it words.
 
+You can check the file that I posted above the read me section with the name “Cosine_similarity_example”. Let’s continue with the recommendation model.
+
+Initially, I will create a data frame which will contain jobs from different sectors. Let's read those csv files and concatenate them into a data frame in order to develop the recommendation model.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104584027-974f2280-566a-11eb-82d8-3f89469e5067.png)
+
+The nextstep is to drop duplicates that our data set may have and read the CV that weuse for recommendation. In addition, We can do some text cleaning.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104584553-70ddb700-566b-11eb-91c8-0df0c4b085db.png)
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104584943-0416ec80-566c-11eb-9349-aefe18567d62.png)
+
+The goal isto create a model that will send available open positions to the person whosubmit the CV. We need the Job description and the URL from our data set and alsowe need to create a URL for every CV that we insert in our data set in order tocreate a discrete feature. 
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/104586084-a8e5f980-566d-11eb-8c96-ecf26575edb0.png)
+
+
+
+
+
 
